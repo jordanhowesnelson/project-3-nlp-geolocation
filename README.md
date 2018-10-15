@@ -1,4 +1,4 @@
-Project 3 Executive Summary
+# Project 3 Executive Summary
 
 What makes something distinct to your hometown? Is where you live really that different from the next town? Can you “place” what someone is writing about? All of these ideas are explored by scraping 2 subreddits and using machine learning to determine if a post can be classified as being from Washington, DC or Chicago, IL. Using machine learning, I have tuned a model to identify the contextual clues that define Washington, DC and Chicago, IL to about 90% accuracy. 
 
